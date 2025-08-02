@@ -1,0 +1,9 @@
+{
+  "name": "appi-compatible-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "sequelize": "^6.32.1",
+    "mysql2": "^3.6.0"
+  }
+}
